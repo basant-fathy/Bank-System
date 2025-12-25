@@ -22,11 +22,11 @@ All these projects are part of my **programming learning journey**, where I prac
 
 Bank System Repository
 
-├─ Bank System/
+├─ [Bank System/](Bank-System)
    
-├─ Bank System Extension/
+├─ [Bank System Extension/](Bank-System-Extension)
    
-└─ Bank System Extension 2/
+└─ [Bank System Extension 2/](Bank-System-Extension_2)
 
 
 Each folder contains the project files and a dedicated README describing the project details, features, and how it works.
