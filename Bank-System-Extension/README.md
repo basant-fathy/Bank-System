@@ -40,9 +40,6 @@ The program maintains client data in a vector and ensures all changes are reflec
 3. The **Transactions menu** allows deposits, withdrawals, and checking total balances.
 4. All actions are validated to avoid invalid operations or duplicate account numbers.
 
-**📺 Demo Video / LinkedIn Post:**  
-[Watch how the system works](https://www.linkedin.com/posts/bassant-fathy-575582388_%D8%A5%D9%86%D8%AC%D8%A7%D8%B2-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AE%D8%B7%D9%88%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-activity-7405586872594321408-9tk2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF97FKkBIYwEpy0feW2XgwBRrZ2baraYufs)
-
 ---
 
 ## 🌟 Future Improvements
@@ -50,3 +47,7 @@ The program maintains client data in a vector and ensures all changes are reflec
 - Implementing **staff authentication and access control**.
 - Transitioning to a **fully OOP design** for better maintainability.
 - Developing a **GUI version** for a more user-friendly interface.
+
+ ___
+ ## 📺 Demo Video / LinkedIn Post:  
+ - [Watch on LinkedIn](https://www.linkedin.com/posts/bassant-fathy-575582388_%D8%A5%D9%86%D8%AC%D8%A7%D8%B2-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%AE%D8%B7%D9%88%D8%A9-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-activity-7405586872594321408-9tk2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF97FKkBIYwEpy0feW2XgwBRrZ2baraYufs)
