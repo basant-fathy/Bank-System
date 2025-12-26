@@ -52,3 +52,8 @@ The program uses **vectors** for storing client and user data in memory and ensu
 - Implementing **role-based access control** for more granular permissions.
 - Transitioning to a **fully OOP design** for better maintainability and scalability.
 - Developing a **GUI version** for enhanced usability.
+
+  ___
+
+  ## 📺 Demo Video / LinkedIn Post:
+- [Watch on LinkedIn](https://www.linkedin.com/posts/bassant-fathy-575582388_%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D9%88%D9%85%D8%B3%D8%AA%D9%88%D9%89-%D8%A3%D8%B9%D9%84%D9%89-activity-7410229680966115328-a1g0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF97FKkBIYwEpy0feW2XgwBRrZ2baraYufs)
